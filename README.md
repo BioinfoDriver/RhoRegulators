@@ -9,7 +9,6 @@ Purpose of this repository is to share analysis procedure, data and help readers
 
 * [code](https://github.com/BioinfoDriver/RhoRegulators/tree/main/code): tidy R functions and R script.
 * [data](https://github.com/BioinfoDriver/RhoRegulators/tree/main/data): original and preprocessed data used for analysis and share.
-* [result](https://github.com/BioinfoDriver/RhoRegulators/tree/main/result): important middle results and final results of manuscript.
 
 ## Instructions for Use
 For readers who want to obtain raw/result data, locate data file, then download it with one of following ways:
